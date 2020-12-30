@@ -1,4 +1,4 @@
-# cal-cli
+# calc-cli
 
 the idea is to learn ocaml while practicing it doing a cli calculator
 
