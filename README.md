@@ -15,7 +15,9 @@ the idea is to learn ocaml while practicing it doing a cli calculator
 * [opam](https://opam.ocaml.org/doc/Install.html)
 * [dune](https://dune.build/install)
 
-*Then you could are able to run like this:*
+*Then you would be able to run:*
+
+``` cd src```
 
 ```dune build calc.exe```
 
