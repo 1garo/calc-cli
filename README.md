@@ -10,10 +10,8 @@ the idea is to learn ocaml while practicing it doing a cli calculator
   * mult 
   * div 
 
-#### Before you be able to run the code, you'll need ocaml, opam, and dune:
-* [ocaml](https://ocaml.org/docs/install.html)
-* [opam](https://opam.ocaml.org/doc/Install.html)
-* [dune](https://dune.build/install)
+#### Before you be able to run the code, you'll need [ocaml](https://ocaml.org/docs/install.html), [opam](https://opam.ocaml.org/doc/Install.html), and [dune](https://dune.build/install)
+
 
 *Then you would be able to run:*
 
